@@ -1,0 +1,5 @@
+# EXERCICIO 11
+print ("Calculadora de comprimento da circunferência")
+raio = float(input("Digite o raio: "))
+comprimento = 2 * 3.14159 * raio
+print("O comprimento da circunferência é:", comprimento)
